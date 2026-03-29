@@ -6,10 +6,10 @@
 
 <br/>
 
-<p align="center">Software <i>Engineer</i></p>
+<p align="center"><b>Solutions</b> <i>Engineer</i></p>
 
 
-<p align="center">✨ Creating, Finding and Destroying bugs since Birth.<br>I'm currently doing pretty much the same thing. But doing that jobo at its Best. <br> Obviously with its 🚀ups and downs👎<br> Always looking forward to the ups cause that's where the graph should always be heading.  <br>🎲 Fun fact: Software engineering is a hard physical labor and it's also a team sport.</p>
+<p align="center">✨ Creating, Finding and Destroying bugs since Birth.<br>I'm currently doing pretty much the same thing. But doing that job.o at its Best. <br> Obviously with its 🚀ups and downs👎<br> Always looking forward to the ups cause that's where the graph should always be heading.  <br>🎲 Fun fact: Software engineering is a hard physical labor and it's also a team sport.</p>
 
 ###
 
