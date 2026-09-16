@@ -9,7 +9,7 @@
 <p align="center"><b>Solutions</b> <i>Engineer</i></p>
 
 
-<p align="center">✨ Creating, Finding and Destroying bugs.  <p>🎲 Fun fact: Software engineering is a hard physical labour and it's also a team sport.</p>
+<p align="center">✨ Creating, Finding and Destroying bugs. </p>  <p align="center">🎲 Fun fact: Software engineering is a hard physical labour and it's also a team sport.</p>
 
 ###
 
