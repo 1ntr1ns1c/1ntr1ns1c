@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=isferdinand.isferdinand&left_color=purple"  />
 
 <h1 align="center">  
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+there!+👋;+I'm+Isaac+Ferdinand;">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+there!+👋;+I'm+Isaac. ;">
 </h1>
 
 <br/>
@@ -9,7 +9,7 @@
 <p align="center"><b>Solutions</b> <i>Engineer</i></p>
 
 
-<p align="center">✨ Creating, Finding and Destroying bugs. </p>  <p align="center">🎲 Fun fact: Software engineering is a hard physical labour and it's also a team sport.</p>
+<p align="center">✨Solving problems.  </p>  <p align="center">🎲 Fun fact: Software engineering is a hard physical labour and it's also a team sport.</p>
 
 ###
 
